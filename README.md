@@ -1,4 +1,7 @@
 Sommaire
+
+<img src="premierecouved.jpg">
+
 Préface	4
 1. Pourquoi se faire détatouer ?	5
 2. Un acte médical encadré par la loi	6
