@@ -2,32 +2,59 @@ Sommaire
 
 <img src="premierecouved.jpg">
 
-Préface	4
-1. Pourquoi se faire détatouer ?	5
-2. Un acte médical encadré par la loi	6
-3. Comment fonctionne le détatouage au laser	7
-4. Les types de lasers de détatouage	9
-5. Le déroulement médical du traitement	11
-5.1 La première consultation médicale	11
-5.2 Préparation à la séance	12
-5.3 Déroulé de la séance	12
-5.4 Suites immédiates	14
-6. Espacement des séances et durée du traitement	15
-7. Facteurs influençant le résultat	17
-8. Résultats incomplets et limites	19
-9. Détatouage des maquillages permanents	21
-10. Effets secondaires et complications possibles	22
-10.1 Effets secondaires courants	22
-10.2 Complications rares mais graves	22
-12. Retouches, remaniements ou recouvrements de tatouage	24
-13. Questions fréquentes des patients	26
-Est-ce douloureux ?	26
-Peut-on re-tatouer après un détatouage ?	26
-Quel est le prix d’un détatouage ?	26
-Peut-on reprendre le sport après une séance ?	26
-Peut-on s’exposer au soleil après un détatouage ?	26
-Peut-on suivre un traitement en été ?	26
-Le laser peut-il provoquer un cancer ?	27
-14. Ce qu’il faut retenir	28
-Annexe	29
+Préface
+
+Pourquoi se faire détatouer ?
+
+Un acte médical encadré par la loi
+
+Comment fonctionne le détatouage au laser
+
+Les types de lasers de détatouage
+
+Le déroulement médical du traitement
+
+La première consultation médicale
+
+Préparation à la séance
+
+Déroulé de la séance
+
+Suites immédiates
+
+Espacement des séances et durée du traitement
+
+Facteurs influençant le résultat
+
+Résultats incomplets et limites
+
+Détatouage des maquillages permanents
+
+Effets secondaires et complications possibles
+
+Effets secondaires courants
+
+Complications rares mais graves
+
+Retouches, remaniements ou recouvrements de tatouage
+
+Questions fréquentes des patients
+
+Est-ce douloureux ?
+
+Peut-on re-tatouer après un détatouage ?
+
+Quel est le prix d’un détatouage ?
+
+Peut-on reprendre le sport après une séance ?
+
+Peut-on s’exposer au soleil après un détatouage ?
+
+Peut-on suivre un traitement en été ?
+
+Le laser peut-il provoquer un cancer ?
+
+Ce qu’il faut retenir
+
+Annexe
 
